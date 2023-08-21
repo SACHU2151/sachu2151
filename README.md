@@ -22,7 +22,7 @@ npm run [test]
 ## Author
 ---
 👤 Sachin Shivade
-* LinkedIn [@Sachin Shivade](www.linkedin.com/in/sachin-shivade-8b7868253)
+* LinkedIn [@Sachin Shivade](https://www.linkedin.com/in/sachin-shivade-8b7868253/)
 * Github [SachinShivade](https://github.com/SACHU2151)
 
 ## 🤝 Contributing
